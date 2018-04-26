@@ -152,3 +152,7 @@ Only when it is more costly to keep up a building or a district should town and 
 While some people link happiness to wealth and material success, others think it lies in emotions and personal relationships.
 
 自律：self-discipline
+
+In my opinion, sports and social activities are not as important as classes and libraries and the latter should receive more financial support. Though it is undeniable that the former do play crucial role in individual success and happiness, sports and social activities are more a self-displane than a program that the school can conduct in order to help student develope. Therefore, sports and social activities are not suitable for school financial support, and my reasons are follows:
+
+Second, financial support to these items will not be effective. As far as I can see, sports and social activities are very personal 
