@@ -187,3 +187,22 @@ Therefore, it is a wise choice for company leaders to allocate a portion of capi
 Comparatively speaking, one would obtain more happiness if he manage to complete a challenagble work rather than a simple work.
 
 However, comparatively speaking, more happiness could be obtained if one manages to perform a challenging duty rather than an easy one.
+
+
+I am skilled programming languages including python/C++, and Neural Network toolkits including Tensorflow, Torch and Theano.
+
+I am one of the leader in Tsinghua MS student club for one year, in which I organized technology salon for about six times, and took part in the organization of other routines.
+
+I am eagar to AI reseach. Since I entered Tsinghua University, I have worked in labs focusing on AI. 
+
+My research experience includes:
+
+1. An unpublished paper: Frame Difference-Based Temporal Loss for Video Stylization.
+
+2. A project: A smart image manipulator based on simple line-drawing.
+
+3. A course project: A simple gomoku AI based on DNN and Monte Carlo Tree Search.
+
+4. Two Student Research Training program at Tsinghua University: One of them is about brain-inspired computation and the other is on video stylization.
+
+5. Two projects at National Student Training Program for Innovation and Entrepreneurship: One of them is about deep neural network interpretation and the other is about interactive GAN.
